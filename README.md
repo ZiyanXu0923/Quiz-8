@@ -1,2 +1,4 @@
 # idea9103_test
-9103hahahahahahaha
+My first try related final project!!!!!!!!
+
+Hi!!!!!!
