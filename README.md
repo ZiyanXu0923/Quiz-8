@@ -13,7 +13,7 @@ These artworks simulate the sense of depth one experiences when wandering throug
 It can perfectly presnet clear lines and geometric figures with rich layers.
 
 ### Reference Images
-- ![Image 1](assets/scape.jpg)
+- ![Image 1](assets/space.jpg)
 - ![Image 2](assets/flower.jpg)
 
 
